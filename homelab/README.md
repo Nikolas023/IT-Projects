@@ -1,5 +1,5 @@
 # Project 1: Windows Server domain lab
-## Topics covered: Active Directory, DNS, DHCP, Group Policy, Software Deployment, Remote Desktop, Backups
+## Topics covered: Active Directory, DNS, DHCP, Group Policy, Software Deployment, Remote Desktop
 
 Simulated hospital IT environment built to practice desktop support and
 systems administration: Active Directory, DNS, DHCP, Group Policy, and
