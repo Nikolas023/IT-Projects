@@ -5,6 +5,9 @@ Simulated hospital IT environment built to practice desktop support and
 systems administration: Active Directory, DNS, DHCP, Group Policy, and
 remote support.
 
+## Note
+Access my Group Policy Object report and my Group Policy result through my website www.nikdevelops.com. It's at the bottom of the webpage. 
+
 ## Environment
 | VM | OS | Role | IP |
 |---|---|---|---|
